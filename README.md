@@ -8,6 +8,7 @@ practices node, typescript, express, mongoDB
 - npm 8.11.0
 - yarn 1.22.18
 - docker 20.10.14
+- vscode
 
 # section-0
 
